@@ -2,7 +2,7 @@
 
 
 
-<p align="center">Página de links simples.</p>
+<p align="center">Página de links clean</p>
 
 
 
