@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #FAF7FD;
+    background-color: #15101a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,7 +17,7 @@ body {
 
 header img {
     width: 200px;
-    border: 2px solid #BB99DD;
+    border: 2px solid #ffffff;
     border-radius: 50%;
     padding: 4px;
 }
@@ -28,7 +28,7 @@ header img:hover {
 
 section h1 {
     text-align: center;
-    color: #BB99DD;
+    color: #ffffff;
     font-weight: 300;
     margin-top: 13px;
     margin-bottom: 33px;
@@ -46,11 +46,11 @@ section ol li {
 
 section ol li a {
     text-decoration: none;
-    color: #BB99DD;
+    color: #f9f9fa;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid #BB99DD;
+    border: 2px solid #ffffff;
     border-radius: 4px; 
     font-weight: 600;
     text-transform: uppercase;
