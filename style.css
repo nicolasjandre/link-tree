@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #15101a;
+    background-color: #040967ce;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,6 +20,7 @@ header img {
     border: 2px solid #ffffff;
     border-radius: 50%;
     padding: 4px;
+    transition: transform .3s;
 }
 
 header img:hover {
@@ -57,6 +58,7 @@ section ol li a {
     width: 326px;
     height: 49px;
     margin: 0px auto 16px;
+    transition: transform .3s;
 }
 
 section ol li a:hover {
@@ -73,6 +75,10 @@ section ul {
 
 section ul li {
     list-style: none;
+}
+
+section ul li a img {
+    transition: transform .3s;
 }
 
 section ul li a img:hover {
